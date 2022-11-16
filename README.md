@@ -1,4 +1,4 @@
 # DeepLearning_Basic_Application
 
 Google Colabse Link 
-https://colab.research.google.com/gist/mitaskin/afa9d7bbe4cee0487ad248355ccf4077/mitaskin-msc-deeplearning-midtermexample.ipynb
+https://colab.research.google.com/drive/18p_xNJTg8v9E11iBDFT9AxlGaEW_5QKt?usp=sharing
